@@ -1,6 +1,6 @@
 # Whole-genome-sequence-analysis
 Bacterial genome analysis of 300bp pair end reads
-- Fastqc - Q-ality of seqeunces
+- Fastqc - Quality of seqeunces
 - Multiqc - View the results collectively
 - Trimmomatic - Trim the adapters and primers
 - SPADES - Genome assembly
